@@ -1,0 +1,7 @@
+{
+  "name": "DeviceID",
+  "dependencies": {
+    "FS": "^2.0.0",
+    "SPIFFS": "^2.0.0"
+  }
+}
