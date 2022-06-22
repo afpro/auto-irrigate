@@ -1,0 +1,6 @@
+{
+  "name": "AutoIrrigateBLE",
+  "dependencies": {
+    "BLE": "^1.0.1"
+  }
+}
